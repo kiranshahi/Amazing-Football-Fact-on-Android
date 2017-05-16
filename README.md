@@ -1,2 +1,2 @@
-# Amagin-Football-Fact-on-Android
+# Amagin Football Fact
 This is my very first project on Android Application development. 
